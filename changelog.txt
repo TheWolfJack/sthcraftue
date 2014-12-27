@@ -1,3 +1,8 @@
 1.0.0--
 Initial Release
 Era of Blood and Steam!
+
+Versioning is major.minor.revision
+-major releases are for mods being added and removed
+-minor releases are for mods being updated
+-revision releases are for config/resource changes

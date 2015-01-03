@@ -1,3 +1,29 @@
+1.4.4--
+Updated mods:
+AOBD-2.3.5.jar
+AppleCore-mc1.7.10-1.0.2.jar
+BetterStorage-1.7.10-0.11.3.123.jar
+BigReactors-0.4.1A2.jar
+BloodMagic-1.7.10-1.3.0a-1.jar
+Botania r1.3-148.jar
+Carpenter's Blocks v3.3.4.2 - MC 1.7.10.jar
+Chisel 2-2.2.1.jar
+CoFHCore-[1.7.10]3.0.0B9-73.jar
+CoFHLib-[1.7.10]1.0.0B8-51.jar
+EnderIO-1.7.10-2.2.6.317.jar
+EnderZoo-1.7.10-1.0.9.18.jar
+EnhancedInventories-1.7.10-1.0.2.jar
+IguanaTinkerTweaks-1.7.10-2.1.1.jar
+MineFactoryReloaded-[1.7.10]2.8.0RC6-20.jar
+NetherOres-[1.7.10]2.3.0RC4-8.jar
+Pam's HarvestCraft 1.7.10f.jar
+RandomThings-2.2.3.jar
+Ruins-1.7.10.jar
+SpiceOfLife-mc1.7.10-1.2.3.jar
+TConstruct-1.7.10-1.8.1.jar
+TiCTooltips-mc1.7.10-1.2.0.jar
+UpdateCheckerMod-1.7.10.jar
+
 1.3.4--
 Config changes for Hunger Overhaul hunger loss (100 -> 75)
 Disabled/removed Mekanism paxel recepies

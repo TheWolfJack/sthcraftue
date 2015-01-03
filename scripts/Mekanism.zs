@@ -1,5 +1,18 @@
 #Mekanism
 
+# Removed for balance
+recipes.remove(<MekanismTools:WoodPaxel>);
+recipes.remove(<MekanismTools:StonePaxel>);
+recipes.remove(<MekanismTools:IronPaxel>);
+recipes.remove(<MekanismTools:DiamondPaxel>);
+recipes.remove(<MekanismTools:GoldPaxel>);
+recipes.remove(<MekanismTools:ObsidianPaxel>);
+recipes.remove(<MekanismTools:LapisLazuliPaxel>);
+recipes.remove(<MekanismTools:OsmiumPaxel>);
+recipes.remove(<MekanismTools:BronzePaxel>);
+recipes.remove(<MekanismTools:GlowstonePaxel>);
+recipes.remove(<MekanismTools:SteelPaxel>);
+
 # Disable machines for Phase 1
 recipes.remove(<Mekanism:BasicBlock:7>);
 recipes.remove(<Mekanism:BasicBlock:8>);

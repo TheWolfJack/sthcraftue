@@ -789,6 +789,19 @@ NEI.hide(<MekanismGenerators:Generator:5>);
 NEI.hide(<MekanismGenerators:Generator:6>);
 NEI.hide(<MekanismGenerators:SolarPanel>);
 NEI.hide(<Mekanism:BioFuel>);
+# Removed for balance
+####
+NEI.hide(<MekanismTools:WoodPaxel>);
+NEI.hide(<MekanismTools:StonePaxel>);
+NEI.hide(<MekanismTools:IronPaxel>);
+NEI.hide(<MekanismTools:DiamondPaxel>);
+NEI.hide(<MekanismTools:GoldPaxel>);
+NEI.hide(<MekanismTools:ObsidianPaxel>);
+NEI.hide(<MekanismTools:LapisLazuliPaxel>);
+NEI.hide(<MekanismTools:OsmiumPaxel>);
+NEI.hide(<MekanismTools:BronzePaxel>);
+NEI.hide(<MekanismTools:GlowstonePaxel>);
+NEI.hide(<MekanismTools:SteelPaxel>);
 
 ####
 # MFR

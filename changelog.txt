@@ -1,3 +1,10 @@
+1.3.4--
+Config changes for Hunger Overhaul hunger loss (100 -> 75)
+Disabled/removed Mekanism paxel recepies
+
+1.3.3a--
+Resync to fix derps
+
 1.3.3--
 Updated mods:
 NEIPlugins-MC1.7.10-1.1.0.11-unofficial.jar 

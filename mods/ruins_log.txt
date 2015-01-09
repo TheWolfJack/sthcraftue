@@ -1,11 +1,12 @@
 
-Loading excluded list from: C:\Users\alyle\AppData\Roaming\.technic\modpacks\sthcraftue\saves\kadath\DIM-47
+Loading excluded list from: C:\Users\alyle\AppData\Roaming\.technic\modpacks\sthcraftue\saves\kadath\DIM-1
 No exclusions found for this world.
 
-Loading options from: C:\Users\alyle\AppData\Roaming\.technic\modpacks\sthcraftue\saves\kadath\DIM-47
+Loading options from: C:\Users\alyle\AppData\Roaming\.technic\modpacks\sthcraftue\saves\kadath\DIM-1
 tries_per_chunk_normal = 1
 chance_to_spawn_normal = 2.5
 templateInstancesMinDistance = 512.0
 anyRuinsMinDistance = 256.0
-Ruins mod loaded successfully for world C:\Users\alyle\AppData\Roaming\.technic\modpacks\sthcraftue\saves\kadath\DIM-47, template files: 32
+Ruins mod loaded successfully for world C:\Users\alyle\AppData\Roaming\.technic\modpacks\sthcraftue\saves\kadath\DIM-1, template files: 32
+2
 2

@@ -1,0 +1,10 @@
+recipes.remove(<ExtraUtilities:nodeUpgrade>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:1>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:2>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:3>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:4>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:5>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:6>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:7>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:8>);
+recipes.remove(<ExtraUtilities:nodeUpgrade:9>);

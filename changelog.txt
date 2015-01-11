@@ -1,3 +1,11 @@
+1.5.5--
+Config changes to disable food stack limitation
+
+1.5.4--
+Updated mods:
+IguanaTinkerTweaks-1.7.10-2.1.2.jar
+TConstruct-1.7.10-1.8.2a.jar
+
 1.4.4--
 Updated mods:
 AOBD-2.3.5.jar

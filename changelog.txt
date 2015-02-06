@@ -1,3 +1,34 @@
+2.0.0--
+Era of the machines!
+
+Updated mods:
+Automagy-1.7.10-0.18.jar
+Botania r1.4-155.jar
+CodeChickenCore-1.7.10-1.0.4.35-universal.jar
+HardcoreEnderExpansion  MC-1.7.10  v1.7.jar
+NotEnoughItems-1.7.10-1.0.4.83-universal.jar
+TMechworks-1.7.10-0.2.12.95.jar
+Thaumcraft-1.7.10-4.2.3.4.jar
+Flaxbeard'sSteamPower-1.7.10-0.27.4.jar
+NEIIntegration-MC1.7.10-1.0.6.jar
+StorageDrawers-1.7.10-1.2.2.jar
+
+Added mods: 
+ChiselFacades-1.7.10-2.7-cricket.jar
+EnhancedPortals_1.7.10-universal-3.0.7.jar
+OpenComputers-MC1.7.10-1.4.7a.32-universal.jar
+ProjectBlue-1.1.2-mc1.7.10.jar
+ProjectRed-Lighting-1.7.10-4.5.1.51.jar
+Translocator-1.7.10-1.1.1.13-universal.jar
+Tubes-1.7.10-2.0.5.jar
+funky-locomotion-1.7.10-beta-3.jar
+generators-mc1710-0.9.6.27.jar
+legacyjavafixer-1.0.jar
+pressure-mc1710-1.0.1.48.jar
+thaumcraftneiplugin-1.7.10-1.7.jar
+
+Removed many of the mod restrictions to allow pipes, machines, etc.
+
 1.5.5--
 Config changes to disable food stack limitation
 
